@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [] ;
-let numeroLimite = 100 ;
+let numeroLimite = 1000 ;
 //let titulo = document.querySelector ('h1');
 //titulo.innerHTML = 'Jogo do numero secreto .';
 
