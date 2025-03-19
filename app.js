@@ -39,11 +39,11 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 exibirTextoNaTela ('h1','Jogo do numero secreto');
-exibirTextoNaTela ('p','Escolha um número entre 1 e 10');
+exibirTextoNaTela ('p','Escolha um número entre 1 e 100');
 
 function exibirMensagemInicial () {
     exibirTextoNaTela ('h1','Jogo do numero secreto');
-    exibirTextoNaTela ('p','Escolha um número entre 1 e 10');
+    exibirTextoNaTela ('p','Escolha um número entre 1 e 100');
 
 }
 
